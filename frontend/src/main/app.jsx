@@ -1,4 +1,5 @@
-import React from "babel-plugin-react-html-attrs"
+import '../common/template/dependencies'
+import React from 'react'
 
 export default props => (
     <div className="wrapper">
